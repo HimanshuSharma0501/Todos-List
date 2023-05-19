@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "task": "Purchase a Laptop",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Purchase a Mobile",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Eat Burger",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Feed Dogs",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Change light bulbs",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Go to Store",
+    "complete": true
+  }, {
+    "id": 7,
+    "task": "Fill Water Bottles",
+    "complete": true
+  }, {
+    "id": 8,
+    "task": "Change BedSheet",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Go to the Gym",
+    "complete": true
+  },{
+    "id": 12,
+    "task": "Read book",
+    "complete": true
+  }, {
+    "id": 13,
+    "task": "Go To College",
+    "complete": false
+  }]
